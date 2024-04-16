@@ -4,4 +4,4 @@ The Asteroids™ application gives you the means to monitor the position and tra
 
 ![Alt text](/Images/Asteroids™%20(GitHub).png?raw=true "Asteroids™ Application")
 
-This application is available for free in the [Microsoft® Store]([https://](https://www.microsoft.com/store/apps/9MZMH9WZQSD5)).
+This application is available for free in the [Microsoft® Store](https://www.microsoft.com/store/apps/9MZMH9WZQSD5).
