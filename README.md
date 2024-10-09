@@ -1,6 +1,6 @@
 # Asteroids
 ## Asteroids™ - 3D Solar System &amp; Asteroids Simulator (UWP)
-The Asteroids™ application gives you the means to monitor the position and trajectory of all known asteroids in our Solar System. To achieve that, it constantly calculates and updates the orbits of more than 1,300,000 asteroids (data obtained from NASA's Jet Propulsion Laboratory). For NEOs, the data is aligned with the 'Center of Near Earth Objects Studies' (CNEOS).
+The Asteroids™ application gives you the means to monitor the position and trajectory of all known asteroids in our Solar System. To achieve that, it constantly calculates and updates the orbits of more than 1,400,000 asteroids (data obtained from NASA's Jet Propulsion Laboratory). For NEOs, the data is aligned with the 'Center of Near Earth Objects Studies' (CNEOS).
 
 ![Asteroids™ Poster](/Images/Asteroids™%20(GitHub).png?raw=true "Asteroids™ Application")
 
